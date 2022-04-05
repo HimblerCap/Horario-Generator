@@ -1,0 +1,5096 @@
+[
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "HUALLPA GUTIERREZ, WALTER"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "HUALLPA GUTIERREZ, WALTER"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "HUALLPA GUTIERREZ, WALTER"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "HUALLPA GUTIERREZ, WALTER"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CARO AMERY. JOSE"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CARO AMERY. JOSE"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI01",
+      "CURSO": "FÍSICA I",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BIC01",
+      "CURSO": "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "13:00-14:00",
+      "DOCENTE": "ROJAS VILLANUEVA, UWE"
+    },
+    {
+      "CODIGO": "BIC01",
+      "CURSO": "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ROJAS VILLANUEVA, UWE"
+    },
+    {
+      "CODIGO": "BIC01",
+      "CURSO": "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-09:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BIC01",
+      "CURSO": "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "09:00-11:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BIC01",
+      "CURSO": "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-11:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BIC01",
+      "CURSO": "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08.00-10.00",
+      "DOCENTE": "SAAL RIQUEROS, CESAR"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "SAAL RIQUEROS, CESAR"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "SAAL RIQUEROS, CESAR"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14.00-16:00",
+      "DOCENTE": "ORIA CHAVARRIA, MARIO"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ORIA CHAVARRIA, MARIO"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ORIA CHAVARRIA, MARIO"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CORNEJO HUAMAN, JORGE"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CORNEJO HUAMAN, JORGE"
+    },
+    {
+      "CODIGO": "BMA01",
+      "CURSO": "CALCULO DIFERENCIAL",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CORNEJO HUAMAN, JORGE"
+    },
+    {
+      "CODIGO": "BMA03",
+      "CURSO": "ALGEBRA LINEAL",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "SALINAS AQUIJE, TEOFILO"
+    },
+    {
+      "CODIGO": "BMA03",
+      "CURSO": "ALGEBRA LINEAL",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "SALINAS AQUIJE, TEOFILO"
+    },
+    {
+      "CODIGO": "BMA03",
+      "CURSO": "ALGEBRA LINEAL",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+    },
+    {
+      "CODIGO": "BMA03",
+      "CURSO": "ALGEBRA LINEAL",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+    },
+    {
+      "CODIGO": "BMA03",
+      "CURSO": "ALGEBRA LINEAL",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BMA03",
+      "CURSO": "ALGEBRA LINEAL",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BRN01",
+      "CURSO": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ARENALES SOLIS, JOSE CARLOS"
+    },
+    {
+      "CODIGO": "BRN01",
+      "CURSO": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ARENALES SOLIS, JOSE CARLOS"
+    },
+    {
+      "CODIGO": "BRN01",
+      "CURSO": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ARENALES SOLIS, JOSE CARLOS"
+    },
+    {
+      "CODIGO": "BRN01",
+      "CURSO": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ARENALES SOLIS, JOSE CARLOS"
+    },
+    {
+      "CODIGO": "BRN01",
+      "CURSO": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ARENALES SOLIS, JOSE CARLOS"
+    },
+    {
+      "CODIGO": "BRN01",
+      "CURSO": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ARENALES SOLIS, JOSE CARLOS"
+    },
+    {
+      "CODIGO": "EE250",
+      "CURSO": "DIBUJO TÉCNICO",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "ALMORA RIVAS, ENRIQUE"
+    },
+    {
+      "CODIGO": "EE250",
+      "CURSO": "DIBUJO TÉCNICO",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "19:00-21:00",
+      "DOCENTE": "ALMORA RIVAS, ENRIQUE"
+    },
+    {
+      "CODIGO": "EE250",
+      "CURSO": "DIBUJO TÉCNICO",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "18.00-20:00",
+      "DOCENTE": "ALMORA RIVAS, ENRIQUE"
+    },
+    {
+      "CODIGO": "EE250",
+      "CURSO": "DIBUJO TÉCNICO",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "ALMORA RIVAS, ENRIQUE"
+    },
+    {
+      "CODIGO": "EE250",
+      "CURSO": "DIBUJO TÉCNICO",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "ALMORA RIVAS, ENRIQUE"
+    },
+    {
+      "CODIGO": "EE250",
+      "CURSO": "DIBUJO TÉCNICO",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "19:00-21:00",
+      "DOCENTE": "ALMORA RIVAS, ENRIQUE"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "10:00-12:0",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10.00-13:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI05",
+      "CURSO": "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CHIRINOS VILLARUEL, FERNANDO"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "BUTLER BLACKER, JORGE"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "BUTLER BLACKER, JORGE"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BUTLER BLACKER, JORGE"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "20.00-22:00",
+      "DOCENTE": "BUTLER BLACKER, JORGE"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "BUTLER BLACKER, JORGE"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "BUTLER BLACKER, JORGE"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "MIGUEL CAÑAMERO, JOSE"
+    },
+    {
+      "CODIGO": "BMA09",
+      "CURSO": "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "MIGUEL CAÑAMERO, JOSE"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ORIA CHAVARRIA, MARIO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ORIA CHAVARRIA, MARIO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ORIA CHAVARRIA, MARIO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ERQUIZIO ESPINAL, JOSE EDUARDO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "SALINAS AQUIJE, TEOFILO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "SALINAS AQUIJE, TEOFILO"
+    },
+    {
+      "CODIGO": "BMA02",
+      "CURSO": "CÁLCULO INTEGRAL",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "SALINAS AQUIJE, TEOFILO"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA / MEDINA RODRIGUEZ, RAQUEL"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MEDINA RODRIGUEZ, RAQUEL"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MEDINA RODRIGUEZ, RAQUEL"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "N",
+      "TIPO": "P/L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "MEDINA RODRIGUEZ, RAQUEL / GARAY CAUTI, ZOILA"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA"
+    },
+    {
+      "CODIGO": "BQU01",
+      "CURSO": "QUÍMICA I",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "RODRIGUEZ MORALES, MARIA /  GARAY CAUTI, ZOILA"
+    },
+    {
+      "CODIGO": "BRC01",
+      "CURSO": "REDACCION Y COMUNICACION",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "16:00-17:00",
+      "DOCENTE": "LEÓN CONTRERAS IRAIDA ARLENE"
+    },
+    {
+      "CODIGO": "BRC01",
+      "CURSO": "REDACCION Y COMUNICACION",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "LEÓN CONTRERAS IRAIDA ARLENE"
+    },
+    {
+      "CODIGO": "BRC01",
+      "CURSO": "REDACCION Y COMUNICACION",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "16:00-17:00",
+      "DOCENTE": "LEÓN CONTRERAS IRAIDA ARLENE"
+    },
+    {
+      "CODIGO": "BRC01",
+      "CURSO": "REDACCION Y COMUNICACION",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "LEÓN CONTRERAS IRAIDA ARLENE"
+    },
+    {
+      "CODIGO": "BRC01",
+      "CURSO": "REDACCION Y COMUNICACION",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-17:00",
+      "DOCENTE": "LEÓN CONTRERAS IRAIDA ARLENE"
+    },
+    {
+      "CODIGO": "BRC01",
+      "CURSO": "REDACCION Y COMUNICACION",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "LEÓN CONTRERAS IRAIDA ARLENE"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "18:00-19:00",
+      "DOCENTE": "BRICEÑO ARANDA, CESAR"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "19:00-21:00",
+      "DOCENTE": "BRICEÑO ARANDA, CESAR"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "19.00-21:00",
+      "DOCENTE": "BRICEÑO ARANDA, CESAR"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "10:00 - 11:00",
+      "DOCENTE": "nn"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "nn"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "nn"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10.00-11:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE152",
+      "CURSO": "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14.00-16:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "M",
+      "TIPO": "P/L",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "DURAND BERNALD, LUIS"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CHIRINOS VILLARUEL, FERNANDO"
+    },
+    {
+      "CODIGO": "BFI03",
+      "CURSO": "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA  ",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CHIRINOS VILLARUEL, FERNANDO"
+    },
+    {
+      "CODIGO": "BEG01",
+      "CURSO": "ECONOMÍA GENERAL",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CONVENIO"
+    },
+    {
+      "CODIGO": "BEG01",
+      "CURSO": "ECONOMÍA GENERAL",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CONVENIO"
+    },
+    {
+      "CODIGO": "BEG01",
+      "CURSO": "ECONOMÍA GENERAL",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CONVENIO"
+    },
+    {
+      "CODIGO": "BEG01",
+      "CURSO": "ECONOMÍA GENERAL",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CONVENIO"
+    },
+    {
+      "CODIGO": "BEG01",
+      "CURSO": "ECONOMÍA GENERAL",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CONVENIO"
+    },
+    {
+      "CODIGO": "BEG01",
+      "CURSO": "ECONOMÍA GENERAL",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CONVENIO"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CALLA MARIN, CARLOS"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CALLA MARIN, CARLOS"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "CALLA MARIN, CARLOS"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "CORNEJO HUAMAN, JORGE"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CORNEJO HUAMAN, JORGE"
+    },
+    {
+      "CODIGO": "BMA05",
+      "CURSO": "ECUACIONES DIFERENCIALES",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "CORNEJO HUAMAN, JORGE"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ESPINOZA VÁSQUEZ, MANUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "ESPINOZA VÁSQUEZ, MANUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ESPINOZA VÁSQUEZ, MANUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "ESPINOZA VÁSQUEZ, MANUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "N",
+      "TIPO": "S",
+      "DIA": "VI",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "ESPINOZA VÁSQUEZ, MANUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "LÓPEZ ESQUIVEL, MIGUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "LÓPEZ ESQUIVEL, MIGUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14.00-16:00",
+      "DOCENTE": "LÓPEZ ESQUIVEL, MIGUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "LÓPEZ ESQUIVEL, MIGUEL"
+    },
+    {
+      "CODIGO": "BMA10",
+      "CURSO": "PROBABILIDADES Y ESTADÍSTICA                                                       ",
+      "SECCION": "P",
+      "TIPO": "S",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "LÓPEZ ESQUIVEL, MIGUEL"
+    },
+    {
+      "CODIGO": "BMA15",
+      "CURSO": "PROGRAMACION ORIENTADA A OBJETOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CASTILLO BELSUZARRI, TRINI"
+    },
+    {
+      "CODIGO": "BMA15",
+      "CURSO": "PROGRAMACION ORIENTADA A OBJETOS",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "CASTILLO BELSUZARRI, TRINI"
+    },
+    {
+      "CODIGO": "BMA15",
+      "CURSO": "PROGRAMACION ORIENTADA A OBJETOS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CASTILLO BELSUZARRI, TRINI"
+    },
+    {
+      "CODIGO": "BMA15",
+      "CURSO": "PROGRAMACION ORIENTADA A OBJETOS",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CASTILLO BELSUZARRI, TRINI"
+    },
+    {
+      "CODIGO": "BMA15",
+      "CURSO": "PROGRAMACION ORIENTADA A OBJETOS",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CASTILLO BELSUZARRI, TRINI"
+    },
+    {
+      "CODIGO": "BMA15",
+      "CURSO": "PROGRAMACION ORIENTADA A OBJETOS",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "CASTILLO BELSUZARRI, TRINI"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08.00-10:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "M",
+      "TIPO": "P/L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "PUICAN VERA, JOSE"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "N",
+      "TIPO": "P/L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "PUICAN VERA, JOSE"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "CHAVEZ CHACALTANA, ORLANDO"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "O",
+      "TIPO": "P/L",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "CHAVEZ CHACALTANA, ORLANDO"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "CHAVEZ CHACALTANA, ORLANDO"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "P",
+      "TIPO": "P/L",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "CHAVEZ CHACALTANA, ORLANDO"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "Q",
+      "TIPO": "P/L",
+      "DIA": "JU",
+      "HORA": "10:00 -12:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "R",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE306",
+      "CURSO": "ELECTROTECNIA E INSTALACION DE REDES                 ",
+      "SECCION": "R",
+      "TIPO": "P/L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PUICAN VERA, JOSE"
+    },
+    {
+      "CODIGO": "BEF01",
+      "CURSO": "ETICA Y FILOSOFIA POLITICA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ATARAMA URBINA, ANCO LUIS"
+    },
+    {
+      "CODIGO": "BEF01",
+      "CURSO": "ETICA Y FILOSOFIA POLITICA",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ATARAMA URBINA, ANCO LUIS"
+    },
+    {
+      "CODIGO": "BEF01",
+      "CURSO": "ETICA Y FILOSOFIA POLITICA",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ARENALES SOLIS, JOSE CARLOS"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "PAUYAC HUAMAN, JOSE"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PAUYAC HUAMAN, JOSE"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10.00-13:00",
+      "DOCENTE": "PAUYAC HUAMAN, JOSE"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "PAUYAC HUAMAN, JOSE"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "LLAMOJA CURI, JOHNNY"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "CARO AMERY. JOSE"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CHIRINOS VILLARUEL, FERNANDO"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14.00-17:00",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BFI06",
+      "CURSO": "INTRODUCCION A LA FISICA MODERNA                                       ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ALVA NAVARRO, ROY"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "ROJAS CERNA, VICTOR"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ROJAS CERNA, VICTOR"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "ARIAS ANTONIO, LEANDRO"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ARIAS ANTONIO, LEANDRO"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ROJAS CERNA, VICTOR"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "CALLA MARIN, CARLOS"
+    },
+    {
+      "CODIGO": "BMA07",
+      "CURSO": "CALCULO VECTORIAL                                                                                       ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CALLA MARIN, CARLOS"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "MIGUEL CAÑAMERO, JOSE"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "M",
+      "TIPO": "P/L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "MIGUEL CAÑAMERO, JOSE"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "MIGUEL CAÑAMERO, JOSE"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "N",
+      "TIPO": "P/L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MIGUEL CAÑAMERO, JOSE"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "BMA18",
+      "CURSO": "METODOS NUMERICOS",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "RAMOS CARRION, JORGE"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RAMOS CARRION, JORGE"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RAMOS CARRION, JORGE"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "NEGRON MARTINEZ, CONSUELO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "NEGRON MARTINEZ, CONSUELO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "NEGRON MARTINEZ, CONSUELO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "NEGRON MARTINEZ, CONSUELO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "NEGRON MARTINEZ, CONSUELO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "WATERS TORRES, OSWALDO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "17:00-20:00",
+      "DOCENTE": "TOKUMORI KIYOTA, SERGIO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "TOKUMORI KIYOTA, SERGIO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "TOKUMORI KIYOTA, SERGIO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "WATERS TORRES, OSWALDO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "TOKUMORI KIYOTA, SERGIO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "TOKUMORI KIYOTA, SERGIO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "R",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "WATERS TORRES, OSWALDO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "R",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "WATERS TORRES, OSWALDO"
+    },
+    {
+      "CODIGO": "EE320",
+      "CURSO": "CIRCUITOS ELECTRICOS I                                                                                   ",
+      "SECCION": "R",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "WATERS TORRES, OSWALDO"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "DIAZ ACHA, ISRAEL"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "ROJAS CERNA, VICTOR"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ROJAS CERNA, VICTOR"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "17:00-20:00",
+      "DOCENTE": "ARIAS ANTONIO, LEANDRO"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ARIAS ANTONIO, LEANDRO"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE410",
+      "CURSO": "ANALISIS DE SEÑALES Y SISTEMAS                                                   ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ARIAS ANTONIO, LEANDRO"
+    },
+    {
+      "CODIGO": "BFM16",
+      "CURSO": "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "VELAZCO LORENZO, DINAU"
+    },
+    {
+      "CODIGO": "BFM16",
+      "CURSO": "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "VELAZCO LORENZO, DINAU"
+    },
+    {
+      "CODIGO": "BFM16",
+      "CURSO": "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "VELAZCO LORENZO, DINAU"
+    },
+    {
+      "CODIGO": "BFM16",
+      "CURSO": "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "VELAZCO LORENZO, DINAU"
+    },
+    {
+      "CODIGO": "BMA22",
+      "CURSO": "PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "ESPINOZA VÁSQUEZ, MANUEL"
+    },
+    {
+      "CODIGO": "BMA22",
+      "CURSO": "PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ESPINOZA VÁSQUEZ, MANUEL"
+    },
+    {
+      "CODIGO": "EE418",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I                          ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "LAZO OCHOA, DOMINGO"
+    },
+    {
+      "CODIGO": "EE418",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I                          ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "LAZO OCHOA, DOMINGO"
+    },
+    {
+      "CODIGO": "EE418",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I                          ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "LAZO OCHOA, DOMINGO"
+    },
+    {
+      "CODIGO": "EE418",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I                          ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "LAZO OCHOA, DOMINGO"
+    },
+    {
+      "CODIGO": "EE418",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I                          ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "LAZO OCHOA, DOMINGO"
+    },
+    {
+      "CODIGO": "EE418",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I                          ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "LAZO OCHOA, DOMINGO"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "BETETTA GOMEZ, JUDITH"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "BETETTA GOMEZ, JUDITH"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "BETETTA GOMEZ, JUDITH"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10.00-13:00",
+      "DOCENTE": "RAMOS CARRION, JORGE"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RAMOS CARRION, JORGE"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08.00-11:00",
+      "DOCENTE": "BETETTA GOMEZ, JUDITH"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "BETETTA GOMEZ, JUDITH"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "nn"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "18:00-21:00",
+      "DOCENTE": "ROCHA JARA, ALFREDO"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ROCHA JARA, ALFREDO"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ROCHA JARA, ALFREDO"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "15:00-18:00",
+      "DOCENTE": "ROCHA JARA, ALFREDO"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ROCHA JARA, ALFREDO"
+    },
+    {
+      "CODIGO": "EE420",
+      "CURSO": "CIRCUITOS ELECTRICOS II                                                                           ",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ROCHA JARA, ALFREDO"
+    },
+    {
+      "CODIGO": "EE428",
+      "CURSO": "LABORATORIO DE ELECTRONICA I",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "ALBURQUEQUE GUERRERO, ANGEL"
+    },
+    {
+      "CODIGO": "EE428",
+      "CURSO": "LABORATORIO DE ELECTRONICA I",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ALBURQUEQUE GUERRERO, ANGEL"
+    },
+    {
+      "CODIGO": "EE428",
+      "CURSO": "LABORATORIO DE ELECTRONICA I",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE428",
+      "CURSO": "LABORATORIO DE ELECTRONICA I",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ALBURQUEQUE GUERRERO, ANGEL"
+    },
+    {
+      "CODIGO": "EE428",
+      "CURSO": "LABORATORIO DE ELECTRONICA I",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE428",
+      "CURSO": "LABORATORIO DE ELECTRONICA I",
+      "SECCION": "R",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ROMERO FUENTES, VIRGINIA"
+    },
+    {
+      "CODIGO": "EE428",
+      "CURSO": "LABORATORIO DE ELECTRONICA I",
+      "SECCION": "S",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "ROMERO FUENTES, VIRGINIA"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "15::00-18:00",
+      "DOCENTE": "DELGADO LEON, MIGUEL"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "PEÑA YALICO, VICENTE"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "09:00-12:00",
+      "DOCENTE": "DELGADO LEON, MIGUEL"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "10.00-12:00",
+      "DOCENTE": "MEDINA RAMIREZ, JOSE AGUSTIN"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "09.00 - 12:00",
+      "DOCENTE": "MEDINA RAMIREZ, JOSE AGUSTIN"
+    },
+    {
+      "CODIGO": "EE522",
+      "CURSO": "ELECTROMAGNETISMO I                                                                               ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "MEDINA RAMIREZ, JOSE AGUSTIN"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "19:00-22:00",
+      "DOCENTE": "AQUIZE PALACIOS, RUBEN"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "AQUIZE PALACIOS, RUBEN"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "MERCHAN GORDILLO, FERNANDO"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "VALENZUELA DE LA CRUZ, BASILIO"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "MERCHAN GORDILLO, FERNANDO"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "CARBONEL OLAZABAL, DANIEL"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "MERCHAN GORDILLO, FERNANDO"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "VALENZUELA DE LA CRUZ, BASILIO"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "15:00-18:00",
+      "DOCENTE": "MERCHAN GORDILLO, FERNANDO"
+    },
+    {
+      "CODIGO": "EE647",
+      "CURSO": "SISTEMAS DE CONTROL I                                                                         ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "VALENZUELA DE LA CRUZ, BASILIO"
+    },
+    {
+      "CODIGO": "BFM17",
+      "CURSO": "FUNDAMENTOS DE TURBOMAQUINAS                            ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "VELAZCO LORENZO, DINAU"
+    },
+    {
+      "CODIGO": "BFM17",
+      "CURSO": "FUNDAMENTOS DE TURBOMAQUINAS                            ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "VELAZCO LORENZO, DINAU"
+    },
+    {
+      "CODIGO": "BMA20",
+      "CURSO": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ROJAS VILLANUEVA, UWE"
+    },
+    {
+      "CODIGO": "BMA20",
+      "CURSO": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ROJAS VILLANUEVA, UWE"
+    },
+    {
+      "CODIGO": "BMA20",
+      "CURSO": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BMA20",
+      "CURSO": "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "CIB12",
+      "CURSO": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "PIZAN TOSCANO, LUPE NERIDA"
+    },
+    {
+      "CODIGO": "CIB12",
+      "CURSO": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "PIZAN TOSCANO, LUPE NERIDA"
+    },
+    {
+      "CODIGO": "CIB12",
+      "CURSO": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PIZAN TOSCANO, LUPE NERIDA"
+    },
+    {
+      "CODIGO": "CIB12",
+      "CURSO": "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "PIZAN TOSCANO, LUPE NERIDA"
+    },
+    {
+      "CODIGO": "EE238",
+      "CURSO": "MEDIDAS ELECTRICAS I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "nn"
+    },
+    {
+      "CODIGO": "EE238",
+      "CURSO": "MEDIDAS ELECTRICAS I",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+    },
+    {
+      "CODIGO": "EE288",
+      "CURSO": "MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "CACERES CARDENAS, FELIX VICTOR"
+    },
+    {
+      "CODIGO": "EE288",
+      "CURSO": "MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "09:00 - 11:00",
+      "DOCENTE": "CACERES CARDENAS, FELIX VICTOR"
+    },
+    {
+      "CODIGO": "EE288",
+      "CURSO": "MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "GUTIERREZ  PAUCAR , AGUSTIN"
+    },
+    {
+      "CODIGO": "EE288",
+      "CURSO": "MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "GUTIERREZ  PAUCAR , AGUSTIN"
+    },
+    {
+      "CODIGO": "EE353",
+      "CURSO": "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+    },
+    {
+      "CODIGO": "EE353",
+      "CURSO": "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+    },
+    {
+      "CODIGO": "EE353",
+      "CURSO": "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "ÑAUPARI HUATUCO, DIONICIO ZOCIMO"
+    },
+    {
+      "CODIGO": "EE353",
+      "CURSO": "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "20.00-22:00",
+      "DOCENTE": "BAUTISTA RIOS, JUAN PABLO"
+    },
+    {
+      "CODIGO": "BIE01",
+      "CURSO": "IDIOMA EXTRANJERO O LENGUA NATIVA EN EL NIVEL NTERMEDIO",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
+    },
+    {
+      "CODIGO": "BIE01",
+      "CURSO": "IDIOMA EXTRANJERO O LENGUA NATIVA EN EL NIVEL NTERMEDIO",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "12.00-14:00",
+      "DOCENTE": "FERNANDEZ MALPARTIDA, WALTER MIGUEL"
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "PERALTA ALFEREZ, FRANS"
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "JIMENEZ HEREDIA ELADIO "
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ROMERO FUENTES, VIRGINIA"
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "PERALTA ALFEREZ, FRANS"
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "JIMENEZ HEREDIA ELADIO "
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ROMERO FUENTES, VIRGINIA"
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "19:00-21:00",
+      "DOCENTE": "JIMENEZ HEREDIA ELADIO "
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "JIMENEZ HEREDIA ELADIO "
+    },
+    {
+      "CODIGO": "EE430",
+      "CURSO": "SISTEMAS DE COMUNICACIONES I ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "JIMENEZ HEREDIA ELADIO "
+    },
+    {
+      "CODIGO": "EE438",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II                          ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "LOPEZ ARAMBURU, FERNANDO"
+    },
+    {
+      "CODIGO": "EE438",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II                          ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "LOPEZ ARAMBURU, FERNANDO"
+    },
+    {
+      "CODIGO": "EE438",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II                          ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "LOPEZ ARAMBURU, FERNANDO"
+    },
+    {
+      "CODIGO": "EE438",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II                          ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "LOPEZ ARAMBURU, FERNANDO"
+    },
+    {
+      "CODIGO": "EE438",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II                          ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10.00-13:00",
+      "DOCENTE": "NUÑEZ CARRILLO, RICARDO"
+    },
+    {
+      "CODIGO": "EE438",
+      "CURSO": "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II                          ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "LOPEZ ARAMBURU, FERNANDO"
+    },
+    {
+      "CODIGO": "EE449",
+      "CURSO": "INTRODUCCION A LA INGENIERIA BIOMEDICA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ROMERO GOYTENDIA, LUIS"
+    },
+    {
+      "CODIGO": "EE449",
+      "CURSO": "INTRODUCCION A LA INGENIERIA BIOMEDICA",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ROMERO GOYTENDIA, LUIS"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "FLORES ATOCHE, BEAU"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "FLORES ATOCHE, BEAU"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "ALBURQUEQUE GUERRERO, ANGEL"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ALBURQUEQUE GUERRERO, ANGEL"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ROMERO FUENTES, VIRGINIA"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "R",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "MENDOZA CARDENAS, FREDY"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "S",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "NUÑEZ CARRILLO, RICARDO"
+    },
+    {
+      "CODIGO": "EE458",
+      "CURSO": "LABORATORIO DE ELECTRONICA II",
+      "SECCION": "T",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "08:00 - 10:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "DELGADO LEON, MIGUEL"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "DELGADO LEON, MIGUEL"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "CAJAHUARINGA CAMACO, ARMANDO"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "ALVAREZ MONTOYA, JUAN"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "11:00 - 14:00",
+      "DOCENTE": "ALVAREZ MONTOYA, JUAN"
+    },
+    {
+      "CODIGO": "EE588",
+      "CURSO": "ELECTROMAGNETISMO II                                                              ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "ALVAREZ MONTOYA, JUAN"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "13:00-15:00",
+      "DOCENTE": "ESTRADA MONTES, JOSE ALFREDO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "15:00-17:00",
+      "DOCENTE": "ESTRADA MONTES, JOSE ALFREDO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BARRIGA HOYLE, JAVIER"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "BARRIGA HOYLE, JAVIER"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "MORALES VILLANUEVA, AURELIO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "BARRIGA HOYLE, JAVIER"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "MORALES VILLANUEVA, AURELIO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MORALES VILLANUEVA, AURELIO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "R",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ESTRADA MONTES, JOSE ALFREDO"
+    },
+    {
+      "CODIGO": "EE604",
+      "CURSO": "INTRODUCCION A MICROCONTROLADORES",
+      "SECCION": "R",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ESTRADA MONTES, JOSE ALFREDO"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "CARBONEL OLAZABAL, DANIEL"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "VALENZUELA DE LA CRUZ, BASILIO"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CARBONEL OLAZABAL, DANIEL"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "VALENZUELA DE LA CRUZ, BASILIO"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "MACHUCA MINES, JOSE"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "VALENZUELA DE LA CRUZ, BASILIO"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "MACHUCA MINES, JOSE"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "CARBONEL OLAZABAL, DANIEL"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CARBONEL OLAZABAL, DANIEL"
+    },
+    {
+      "CODIGO": "EE648",
+      "CURSO": "SISTEMAS DE CONTROL II                                                                          ",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "BRN93",
+      "CURSO": "REGULACION Y SUPERVISION DEL SECTOR ELECTRICO",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "10:00 -12:00",
+      "DOCENTE": "SALVADOR JACOME, LEONCIO JULIO"
+    },
+    {
+      "CODIGO": "BRN93",
+      "CURSO": "REGULACION Y SUPERVISION DEL SECTOR ELECTRICO",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "12:00 - 14:00",
+      "DOCENTE": "SALVADOR JACOME, LEONCIO JULIO"
+    },
+    {
+      "CODIGO": "EE354",
+      "CURSO": "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "12:00-15:00",
+      "DOCENTE": "KOC RUEDA, JOSE ELMER"
+    },
+    {
+      "CODIGO": "EE354",
+      "CURSO": "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE354",
+      "CURSO": "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "15:00-18:00",
+      "DOCENTE": "BEDRIÑANA ARONES, MANFRED FRITZ"
+    },
+    {
+      "CODIGO": "EE354",
+      "CURSO": "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BEDRIÑANA ARONES, MANFRED FRITZ"
+    },
+    {
+      "CODIGO": "EE235",
+      "CURSO": "DISEÑO DE MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "13:00-16:00",
+      "DOCENTE": "CARRANZA AREVALO, MANUEL"
+    },
+    {
+      "CODIGO": "EE239",
+      "CURSO": "MEDIDAS ELECTRICAS II",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "SANDOVAL RODRIGUEZ, ALBERTO"
+    },
+    {
+      "CODIGO": "EE239",
+      "CURSO": "MEDIDAS ELECTRICAS II",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "09:00-11:00",
+      "DOCENTE": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+    },
+    {
+      "CODIGO": "EE239",
+      "CURSO": "MEDIDAS ELECTRICAS II",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE239",
+      "CURSO": "MEDIDAS ELECTRICAS II",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE239",
+      "CURSO": "MEDIDAS ELECTRICAS II",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "20.00-22:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE239",
+      "CURSO": "MEDIDAS ELECTRICAS II",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "nn"
+    },
+    {
+      "CODIGO": "EE241",
+      "CURSO": "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "MEDINA RAMIREZ, JOSE AGUSTIN"
+    },
+    {
+      "CODIGO": "EE241",
+      "CURSO": "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "MEDINA RAMIREZ, JOSE AGUSTIN"
+    },
+    {
+      "CODIGO": "EE241",
+      "CURSO": "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "FARFAN LIRA, JOSE ENRIQUE"
+    },
+    {
+      "CODIGO": "EE298",
+      "CURSO": "MÁQUINAS ELÉCTRICAS II",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "19:00-22:00",
+      "DOCENTE": "ROJAS MIRANDA, LUIS"
+    },
+    {
+      "CODIGO": "EE298",
+      "CURSO": "MÁQUINAS ELÉCTRICAS II",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ROJAS MIRANDA, LUIS"
+    },
+    {
+      "CODIGO": "EE298",
+      "CURSO": "MÁQUINAS ELÉCTRICAS II",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "ROJAS MIRANDA, LUIS"
+    },
+    {
+      "CODIGO": "EE298",
+      "CURSO": "MÁQUINAS ELÉCTRICAS II",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "ROJAS MIRANDA, LUIS"
+    },
+    {
+      "CODIGO": "EE528",
+      "CURSO": "CONVERSION DE ENERGIA ELECTROMECANICA                             ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "08:00 -10:00",
+      "DOCENTE": "GUTIERREZ  PAUCAR , AGUSTIN"
+    },
+    {
+      "CODIGO": "EE528",
+      "CURSO": "CONVERSION DE ENERGIA ELECTROMECANICA                             ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "GUTIERREZ  PAUCAR , AGUSTIN"
+    },
+    {
+      "CODIGO": "EE528",
+      "CURSO": "CONVERSION DE ENERGIA ELECTROMECANICA                             ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "GUTIERREZ  PAUCAR , AGUSTIN"
+    },
+    {
+      "CODIGO": "EE528",
+      "CURSO": "CONVERSION DE ENERGIA ELECTROMECANICA                             ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "GUTIERREZ  PAUCAR , AGUSTIN"
+    },
+    {
+      "CODIGO": "EE528",
+      "CURSO": "CONVERSION DE ENERGIA ELECTROMECANICA                             ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PUICAN VERA, JOSE"
+    },
+    {
+      "CODIGO": "EE528",
+      "CURSO": "CONVERSION DE ENERGIA ELECTROMECANICA                             ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10.00-12:00",
+      "DOCENTE": "PUICAN VERA, JOSE"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "MORENO MARTINEZ, RODOLFO MANUEL"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "15:00-17:00",
+      "DOCENTE": "MORENO MARTINEZ, RODOLFO MANUEL"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "NUÑEZ CARRILLO, RICARDO"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "NUÑEZ ZUÑIGA, TERESA ESTHER"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "12:00-15:00",
+      "DOCENTE": "SAL Y ROSAS CELI, DAMIAN"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "SAL Y ROSAS CELI, DAMIAN"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "MORENO MARTINEZ, RODOLFO MANUEL"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "10:00 -12:00",
+      "DOCENTE": "NUÑEZ CARRILLO, RICARDO"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "10:00 -12:00",
+      "DOCENTE": "NUÑEZ CARRILLO, RICARDO"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10.00-13:00",
+      "DOCENTE": "TISZA CONTRERAS, JUAN"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "TISZA CONTRERAS, JUAN"
+    },
+    {
+      "CODIGO": "EE532",
+      "CURSO": "ELECTRONICA DE POTENCIA                                                                ",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+    },
+    {
+      "CODIGO": "EE467",
+      "CURSO": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "DIAZ ATAUCURI, DANIEL"
+    },
+    {
+      "CODIGO": "EE467",
+      "CURSO": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "DIAZ ATAUCURI, DANIEL"
+    },
+    {
+      "CODIGO": "EE467",
+      "CURSO": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "DIAZ ATAUCURI, DANIEL"
+    },
+    {
+      "CODIGO": "EE467",
+      "CURSO": "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "DIAZ ATAUCURI, DANIEL"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "PERALTA ALFEREZ, FRANS"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "RODRIGUEZ GUTIERREZ, ALFREDO"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "FLORES ATOCHE, BEAU"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "PERALTA ALFEREZ, FRANS"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RODRIGUEZ GUTIERREZ, ALFREDO"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "FLORES ATOCHE, BEAU"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00 - 20:00",
+      "DOCENTE": "PERALTA ALFEREZ, FRANS"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "RODRIGUEZ GUTIERREZ, ALFREDO"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "RODRIGUEZ GUTIERREZ, ALFREDO"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "CORDOVA BERNUY, VICTOR"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "CORDOVA BERNUY, VICTOR"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "P",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "CORDOVA BERNUY, VICTOR"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "PERALTA ALFEREZ, FRANS"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "RODRIGUEZ GUTIERREZ, ALFREDO"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "Q",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "RODRIGUEZ GUTIERREZ, ALFREDO"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "R",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "19:00-21:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "R",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE530",
+      "CURSO": "SISTEMAS DE COMUNICACIONES II                         ",
+      "SECCION": "R",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "20.00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE590",
+      "CURSO": "COMUNICACIONES POR FIBRA ÓPTICA                                                   ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BELLEZA ZAMORA, EDUARDO"
+    },
+    {
+      "CODIGO": "EE590",
+      "CURSO": "COMUNICACIONES POR FIBRA ÓPTICA                                                   ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "BELLEZA ZAMORA, EDUARDO"
+    },
+    {
+      "CODIGO": "EE590",
+      "CURSO": "COMUNICACIONES POR FIBRA ÓPTICA                                                   ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "BELLEZA ZAMORA, EDUARDO"
+    },
+    {
+      "CODIGO": "EE590",
+      "CURSO": "COMUNICACIONES POR FIBRA ÓPTICA                                                   ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BELLEZA ZAMORA, EDUARDO"
+    },
+    {
+      "CODIGO": "EE590",
+      "CURSO": "COMUNICACIONES POR FIBRA ÓPTICA                                                   ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "BELLEZA ZAMORA, EDUARDO"
+    },
+    {
+      "CODIGO": "EE590",
+      "CURSO": "COMUNICACIONES POR FIBRA ÓPTICA                                                   ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "BELLEZA ZAMORA, EDUARDO"
+    },
+    {
+      "CODIGO": "EE593",
+      "CURSO": "SISTEMAS DE RADIOCOMUNICACION                               ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "LOZANO SALAS, JULIO"
+    },
+    {
+      "CODIGO": "EE593",
+      "CURSO": "SISTEMAS DE RADIOCOMUNICACION                               ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "19:00-21:00",
+      "DOCENTE": "LOZANO SALAS, JULIO"
+    },
+    {
+      "CODIGO": "EE658",
+      "CURSO": "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE658",
+      "CURSO": "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE644",
+      "CURSO": "DISEÑO LÓGICO DIGITAL                                                                                   ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "DIAZ ALIAGA, JULIO"
+    },
+    {
+      "CODIGO": "EE644",
+      "CURSO": "DISEÑO LÓGICO DIGITAL                                                                                   ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "DIAZ ALIAGA, JULIO"
+    },
+    {
+      "CODIGO": "EE644",
+      "CURSO": "DISEÑO LÓGICO DIGITAL                                                                                   ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "DIAZ ALIAGA, JULIO"
+    },
+    {
+      "CODIGO": "EE644",
+      "CURSO": "DISEÑO LÓGICO DIGITAL                                                                                   ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "BRICEÑO ARANDA, CESAR"
+    },
+    {
+      "CODIGO": "EE644",
+      "CURSO": "DISEÑO LÓGICO DIGITAL                                                                                   ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "BRICEÑO ARANDA, CESAR"
+    },
+    {
+      "CODIGO": "EE644",
+      "CURSO": "DISEÑO LÓGICO DIGITAL                                                                                   ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "08:00 - 10:00",
+      "DOCENTE": "BRICEÑO ARANDA, CESAR"
+    },
+    {
+      "CODIGO": "EE678",
+      "CURSO": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "MEDINA RAMOS, CARLOS"
+    },
+    {
+      "CODIGO": "EE678",
+      "CURSO": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "MEDINA RAMOS, CARLOS"
+    },
+    {
+      "CODIGO": "EE678",
+      "CURSO": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE678",
+      "CURSO": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "MEDINA RAMOS, CARLOS"
+    },
+    {
+      "CODIGO": "EE678",
+      "CURSO": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+    },
+    {
+      "CODIGO": "EE678",
+      "CURSO": "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "RAMIREZ HUAMAN, LUIS ENRIQUE"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "SALVADOR JACOME, LEONCIO JULIO"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "SALVADOR JACOME, LEONCIO JULIO"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "SALVADOR JACOME, LEONCIO JULIO"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "SALVADOR JACOME, LEONCIO JULIO"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "MONTES BAZALAR, LUIS"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MONTES BAZALAR, LUIS"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "SANDOVAL RODRIGUEZ, ALBERTO"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "16:00 - 18:00",
+      "DOCENTE": "SANDOVAL RODRIGUEZ, ALBERTO"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "DEGREGORI CADENILLAS, LUIS"
+    },
+    {
+      "CODIGO": "BEG06",
+      "CURSO": "FORMULACIÓN Y EVALUACION DE PROYECTOS                            ",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "DEGREGORI CADENILLAS, LUIS"
+    },
+    {
+      "CODIGO": "EE225",
+      "CURSO": "MÁQUINAS ELÉCTRICAS III",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00 - 10:00",
+      "DOCENTE": "PALMA GARCIA, MODESTO TOMAS"
+    },
+    {
+      "CODIGO": "EE225",
+      "CURSO": "MÁQUINAS ELÉCTRICAS III",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PALMA GARCIA, MODESTO TOMAS"
+    },
+    {
+      "CODIGO": "EE242",
+      "CURSO": "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ROJAS MIRANDA, LUIS"
+    },
+    {
+      "CODIGO": "EE242",
+      "CURSO": "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "PUICAN VERA, JOSE"
+    },
+    {
+      "CODIGO": "EE242",
+      "CURSO": "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "PUICAN VERA, JOSE"
+    },
+    {
+      "CODIGO": "EE336",
+      "CURSO": "INGENIERIA DE ALTA TENSION                                                                             ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "YANQUE MONTUFAR, JUSTO"
+    },
+    {
+      "CODIGO": "EE336",
+      "CURSO": "INGENIERIA DE ALTA TENSION                                                                             ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "YANQUE MONTUFAR, JUSTO/SANDOVAL RODRIGUEZ, ALBERTO"
+    },
+    {
+      "CODIGO": "EE375",
+      "CURSO": "ESTABILIDAD DE SISTEMAS DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "19:00-22:00",
+      "DOCENTE": "RAMIREZ ARCELLES, ROBERTO"
+    },
+    {
+      "CODIGO": "EE375",
+      "CURSO": "ESTABILIDAD DE SISTEMAS DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "RAMIREZ ARCELLES, ROBERTO"
+    },
+    {
+      "CODIGO": "EE393",
+      "CURSO": "LINEAS DE TRANSMISION DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BAUTISTA RIOS, JUAN PABLO"
+    },
+    {
+      "CODIGO": "EE393",
+      "CURSO": "LINEAS DE TRANSMISION DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "BAUTISTA RIOS, JUAN PABLO"
+    },
+    {
+      "CODIGO": "EE393",
+      "CURSO": "LINEAS DE TRANSMISION DE POTENCIA",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "MORENO CUEVA, CESAR"
+    },
+    {
+      "CODIGO": "EE393",
+      "CURSO": "LINEAS DE TRANSMISION DE POTENCIA",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "MORENO CUEVA, CESAR"
+    },
+    {
+      "CODIGO": "EE470",
+      "CURSO": "INSTALACIONES ELECTRICAS INDUSTRIALES                            ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "14:00-17:00",
+      "DOCENTE": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+    },
+    {
+      "CODIGO": "EE470",
+      "CURSO": "INSTALACIONES ELECTRICAS INDUSTRIALES                            ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ROSADO AGUIRRE, ESTANISLAO UBALDO"
+    },
+    {
+      "CODIGO": "EE468",
+      "CURSO": "ELECTRÓNICA DE RADIOCOMUNICACIONES                                     ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "09:00-12:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE468",
+      "CURSO": "ELECTRÓNICA DE RADIOCOMUNICACIONES                                     ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE468",
+      "CURSO": "ELECTRÓNICA DE RADIOCOMUNICACIONES                                     ",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "08:00-11:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE468",
+      "CURSO": "ELECTRÓNICA DE RADIOCOMUNICACIONES                                     ",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "11:00-13:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE592",
+      "CURSO": "MICROONDAS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "LOPEZ TAFUR, MARCIAL ANTONIO"
+    },
+    {
+      "CODIGO": "EE592",
+      "CURSO": "MICROONDAS",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "LOPEZ TAFUR, MARCIAL ANTONIO"
+    },
+    {
+      "CODIGO": "EE592",
+      "CURSO": "MICROONDAS",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CAJAHUARINGA CAMACO, ARMANDO"
+    },
+    {
+      "CODIGO": "EE592",
+      "CURSO": "MICROONDAS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ALVAREZ MONTOYA, JUAN"
+    },
+    {
+      "CODIGO": "EE592",
+      "CURSO": "MICROONDAS",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "ALVAREZ MONTOYA, JUAN"
+    },
+    {
+      "CODIGO": "EE592",
+      "CURSO": "MICROONDAS",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CAJAHUARINGA CAMACO, ARMANDO"
+    },
+    {
+      "CODIGO": "CIB02",
+      "CURSO": "INGENIERIA DE SOFTWARE                                                                 ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "13:00-15:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "CIB02",
+      "CURSO": "INGENIERIA DE SOFTWARE                                                                 ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "15:00-17:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE594",
+      "CURSO": "ANTENAS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "LOPEZ TAFUR, MARCIAL ANTONIO"
+    },
+    {
+      "CODIGO": "EE594",
+      "CURSO": "ANTENAS",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "LOPEZ TAFUR, MARCIAL ANTONIO"
+    },
+    {
+      "CODIGO": "EE596",
+      "CURSO": "SISTEMAS DE RADIODIFUSION Y TELEVISION POR CABLE    ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "PATTRONI CHAVEZ,  ARMANDO"
+    },
+    {
+      "CODIGO": "EE596",
+      "CURSO": "SISTEMAS DE RADIODIFUSION Y TELEVISION POR CABLE       ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "PATTRONI CHAVEZ,  ARMANDO"
+    },
+    {
+      "CODIGO": "EE598",
+      "CURSO": "RADIODIFUSION DE VIDEO Y AUDIO DIGITALES               ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "PATTRONI CHAVEZ,  ARMANDO"
+    },
+    {
+      "CODIGO": "EE598",
+      "CURSO": "RADIODIFUSION DE VIDEO Y AUDIO DIGITALES               ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "PATTRONI CHAVEZ,  ARMANDO"
+    },
+    {
+      "CODIGO": "EE621",
+      "CURSO": "CONTROLES ELECTRICOS Y AUTOMATIZACION",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "19:00-22:00",
+      "DOCENTE": "AQUIZE PALACIOS, RUBEN"
+    },
+    {
+      "CODIGO": "EE621",
+      "CURSO": "CONTROLES ELECTRICOS Y AUTOMATIZACION",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "AQUIZE PALACIOS, RUBEN"
+    },
+    {
+      "CODIGO": "EE689",
+      "CURSO": "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BARRIGA HOYLE, JAVIER"
+    },
+    {
+      "CODIGO": "EE689",
+      "CURSO": "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "BARRIGA HOYLE, JAVIER"
+    },
+    {
+      "CODIGO": "EE681",
+      "CURSO": "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MORALES VILLANUEVA, AURELIO"
+    },
+    {
+      "CODIGO": "EE681",
+      "CURSO": "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "MORALES VILLANUEVA, AURELIO"
+    },
+    {
+      "CODIGO": "EE681",
+      "CURSO": "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MORALES VILLANUEVA, AURELIO"
+    },
+    {
+      "CODIGO": "EE508",
+      "CURSO": "INGENIERIA DE AUDIO Y VIDEO",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "LOPEZ TAFUR, MARCIAL ANTONIO"
+    },
+    {
+      "CODIGO": "EE508",
+      "CURSO": "INGENIERIA DE AUDIO Y VIDEO",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "LOPEZ TAFUR, MARCIAL ANTONIO"
+    },
+    {
+      "CODIGO": "EE693",
+      "CURSO": "SISTEMAS MICROELECTRONICOS INTEGRADOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ALARCON MATUTTI, RUBEN VIRGILIO"
+    },
+    {
+      "CODIGO": "EE693",
+      "CURSO": "SISTEMAS MICROELECTRONICOS INTEGRADOS",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "ALARCON MATUTTI, RUBEN VIRGILIO"
+    },
+    {
+      "CODIGO": "EE585",
+      "CURSO": "TRANSITORIOS ELECTROMAGNETICOS EN SISTEMAS DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "BEDRIÑANA ARONES, MANFRED FRITZ"
+    },
+    {
+      "CODIGO": "EE585",
+      "CURSO": "TRANSITORIOS ELECTROMAGNETICOS EN SISTEMAS DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "BEDRIÑANA ARONES, MANFRED FRITZ"
+    },
+    {
+      "CODIGO": "EE672",
+      "CURSO": "ROBOTICA INDUSTRIAL",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE672",
+      "CURSO": "ROBOTICA INDUSTRIAL",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE672",
+      "CURSO": "ROBOTICA INDUSTRIAL",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "GALVEZ LEGUA, MAURICIO PEDRO"
+    },
+    {
+      "CODIGO": "EE676",
+      "CURSO": "CENTRALES ELÉCTRICAS I",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ANTARA ARIAS, RONAL"
+    },
+    {
+      "CODIGO": "EE676",
+      "CURSO": "CENTRALES ELÉCTRICAS I",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "AGUILAR QUIROZ, RICARDO"
+    },
+    {
+      "CODIGO": "EE344",
+      "CURSO": "INGENIERÍA DE ILUMINACIÓN",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "CHACALIAZA HUAPAYA, LUIS"
+    },
+    {
+      "CODIGO": "EE344",
+      "CURSO": "INGENIERÍA DE ILUMINACIÓN",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "CHACALIAZA HUAPAYA, LUIS"
+    },
+    {
+      "CODIGO": "EE346",
+      "CURSO": "INSTALACIONES ELÉCTRICAS II",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "16:00-19:00",
+      "DOCENTE": "HUAYLLASCO MONTALVA, CARLOS"
+    },
+    {
+      "CODIGO": "EE346",
+      "CURSO": "INSTALACIONES ELÉCTRICAS II",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "MORENO CUEVA, CESAR"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L1)",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "FLORES TINOCO, MOISES ARISTE"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L1)",
+      "SECCION": "M",
+      "TIPO": "P/L",
+      "DIA": "MI",
+      "HORA": "16:00-20:00",
+      "DOCENTE": "FLORES TINOCO, MOISES ARISTE"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L1)",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L1)",
+      "SECCION": "N",
+      "TIPO": "P/L",
+      "DIA": "VI",
+      "HORA": "14:00-18:00",
+      "DOCENTE": "KOC RUEDA, JOSE ELMER"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L1)",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "CACERES CARDENAS, FELIX VICTOR"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L1)",
+      "SECCION": "O",
+      "TIPO": "P/L",
+      "DIA": "VI",
+      "HORA": "14:00-18:00",
+      "DOCENTE": "nn"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "20:00 - 22:00",
+      "DOCENTE": "CARBONEL OLAZABAL, DANIEL"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "P",
+      "TIPO": "P/L",
+      "DIA": "VI",
+      "HORA": "18:00-22:00",
+      "DOCENTE": "ATALAYA PISCO, CESAR AUGUSTO"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "Q",
+      "TIPO": "P/L",
+      "DIA": "MA",
+      "HORA": "18:00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "R",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "FIGUEROA SANTOS, LUIS LEONCIO"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "R",
+      "TIPO": "P/L",
+      "DIA": "VI",
+      "HORA": "16:00-20:00",
+      "DOCENTE": "FIGUEROA SANTOS, LUIS LEONCIO"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "S",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "FIGUEROA SANTOS, LUIS LEONCIO"
+    },
+    {
+      "CODIGO": "EE445",
+      "CURSO": "PROYECTO FIN DE CARRERA (L2,L3)",
+      "SECCION": "S",
+      "TIPO": "P/L",
+      "DIA": "JU",
+      "HORA": "14:00-18:00",
+      "DOCENTE": "FIGUEROA SANTOS, LUIS LEONCIO"
+    },
+    {
+      "CODIGO": "EE498",
+      "CURSO": "LABORATORIO DE RADIOCOMUNICACIONES                      ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "FLORES ATOCHE, BEAU"
+    },
+    {
+      "CODIGO": "EE498",
+      "CURSO": "LABORATORIO DE RADIOCOMUNICACIONES                      ",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "ALBURQUEQUE GUERRERO, ANGEL"
+    },
+    {
+      "CODIGO": "EE498",
+      "CURSO": "LABORATORIO DE RADIOCOMUNICACIONES                      ",
+      "SECCION": "O",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "FLORES ATOCHE, BEAU"
+    },
+    {
+      "CODIGO": "EE625",
+      "CURSO": "CONTROL III",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-21:00",
+      "DOCENTE": "MACHUCA MINES, JOSE"
+    },
+    {
+      "CODIGO": "EE625",
+      "CURSO": "CONTROL III",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "MACHUCA MINES, JOSE"
+    },
+    {
+      "CODIGO": "EE698",
+      "CURSO": "LABORATORIO DE SISTEMAS ELECTRICOS DE POTENCIA ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "MEDINA RAMIREZ, JOSE AGUSTIN"
+    },
+    {
+      "CODIGO": "EE708",
+      "CURSO": "SISTEMAS DE CONMUTACIÓN DE TELECOMUNICACIONES ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "TRONCOSO CASTRO, PAUL"
+    },
+    {
+      "CODIGO": "EE708",
+      "CURSO": "SISTEMAS DE CONMUTACIÓN DE TELECOMUNICACIONES",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "TRONCOSO CASTRO, PAUL"
+    },
+    {
+      "CODIGO": "CIB14",
+      "CURSO": "SISTEMAS OPERATIVOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:0",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "CIB14",
+      "CURSO": "SISTEMAS OPERATIVOS",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "SA",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "CIB54",
+      "CURSO": "GESTIÓN Y SEGURIDAD DE REDES",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NEYRA HERRERA, MIGUEL"
+    },
+    {
+      "CODIGO": "CIB54",
+      "CURSO": "GESTIÓN Y SEGURIDAD DE REDES",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "NEYRA HERRERA, MIGUEL"
+    },
+    {
+      "CODIGO": "CIB54",
+      "CURSO": "GESTIÓN Y SEGURIDAD DE REDES",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "CIB54",
+      "CURSO": "GESTIÓN Y SEGURIDAD DE REDES",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE316",
+      "CURSO": "CENTRALES ELÉCTRICAS II",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "12:00-15:00",
+      "DOCENTE": "ANTARA ARIAS, RONAL"
+    },
+    {
+      "CODIGO": "",
+      "CURSO": "CENTRALES ELÉCTRICAS II",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "AGUILAR QUIROZ, RICARDO"
+    },
+    {
+      "CODIGO": "EE376",
+      "CURSO": "PROTECCIÓN DE SISTEMAS DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "10;00-12;00",
+      "DOCENTE": "ARROYO ARANA, CARLOS ALBERTO"
+    },
+    {
+      "CODIGO": "EE376",
+      "CURSO": "PROTECCIÓN DE SISTEMAS DE POTENCIA",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "17:0-19:00",
+      "DOCENTE": "VENTOSILLA ZEVALLOS, MOISES ODAVIO"
+    },
+    {
+      "CODIGO": "EE385",
+      "CURSO": "VALUACION Y TARIFICACION DE LA ENERGIA ELECTRICA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "10:00-13:00",
+      "DOCENTE": "SANDOVAL RODRIGUEZ, ALBERTO"
+    },
+    {
+      "CODIGO": "EE387",
+      "CURSO": "PLANEAMIENTO DE PROYECTOS DE INGENIERIA ELECTRICA",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ZORRILLA ACOSTA, JOSE ALBERTO"
+    },
+    {
+      "CODIGO": "EE387",
+      "CURSO": "PLANEAMIENTO DE PROYECTOS DE INGENIERIA ELECTRICA",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ZORRILLA ACOSTA, JOSE ALBERTO"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L1)",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "CACERES CARDENAS, FELIX VICTOR"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L1)",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "14:00-18:00",
+      "DOCENTE": "CACERES CARDENAS, FELIX VICTOR"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L1)",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "10:00-12:00",
+      "DOCENTE": "PALMA GARCIA, MODESTO TOMAS"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L1)",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "14:00-18:00",
+      "DOCENTE": "PALMA GARCIA, MODESTO TOMAS"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L1)",
+      "SECCION": "O",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "08:00-10:00",
+      "DOCENTE": "ARROYO ARANA, CARLOS ALBERTO"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L1)",
+      "SECCION": "O",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "13:00-17:00",
+      "DOCENTE": "ARROYO ARANA, CARLOS ALBERTO"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "P",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "17:00-19:00",
+      "DOCENTE": "MEDINA RAMOS, CARLOS"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "P",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "16:00 - 20:00",
+      "DOCENTE": "MEDINA RAMOS, CARLOS"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "Q",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "TRONCOSO CASTRO, PAUL"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "Q",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "17:00-21:00",
+      "DOCENTE": "DEGREGORI CADENILLAS, LUIS"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "R",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "ATALAYA PISCO, CESAR AUGUSTO"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "R",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "18:00-22:00",
+      "DOCENTE": "ATALAYA PISCO, CESAR AUGUSTO"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "S",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "LOZANO SALAS, JULIO"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "S",
+      "TIPO": "P",
+      "DIA": "SA",
+      "HORA": "17:00-21:00",
+      "DOCENTE": "LOZANO SALAS, JULIO"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "T",
+      "TIPO": "T",
+      "DIA": "SA",
+      "HORA": "12:00-14:00",
+      "DOCENTE": "MONTES BAZALAR, LUIS"
+    },
+    {
+      "CODIGO": "EE446",
+      "CURSO": "PROYECTO DE TESIS (L2,L3)",
+      "SECCION": "T",
+      "TIPO": "P",
+      "DIA": "VI",
+      "HORA": "18:00-22:00",
+      "DOCENTE": "DIAZ ZEGARRA, JOSE"
+    },
+    {
+      "CODIGO": "EE679",
+      "CURSO": "SUBESTACIONES ELÉCTRICAS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "BAUTISTA RIOS, JUAN PABLO"
+    },
+    {
+      "CODIGO": "EE679",
+      "CURSO": "SUBESTACIONES ELÉCTRICAS",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "BAUTISTA RIOS, JUAN PABLO"
+    },
+    {
+      "CODIGO": "EE679",
+      "CURSO": "SUBESTACIONES ELÉCTRICAS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "FLORES TINOCO, MOISES ARISTE"
+    },
+    {
+      "CODIGO": "EE679",
+      "CURSO": "SUBESTACIONES ELÉCTRICAS",
+      "SECCION": "N",
+      "TIPO": "P",
+      "DIA": "MI",
+      "HORA": "20.00-22:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE712",
+      "CURSO": "PLANIFICACION DE REDES DE TELECOMUNICACIONES ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "JU",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "MONTES BAZALAR, LUIS"
+    },
+    {
+      "CODIGO": "EE712",
+      "CURSO": "PLANIFICACION DE REDES DE TELECOMUNICACIONES ",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "JU",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "MONTES BAZALAR, LUIS"
+    },
+    {
+      "CODIGO": "EE548",
+      "CURSO": "REDES INALAMBRICAS Y MOVILES                                  ",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "LU",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "TRONCOSO CASTRO, PAUL"
+    },
+    {
+      "CODIGO": "EE548",
+      "CURSO": "REDES INALAMBRICAS Y MOVILES                                  ",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "LU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "TRONCOSO CASTRO, PAUL"
+    },
+    {
+      "CODIGO": "EE718",
+      "CURSO": "SISTEMAS DE CONTROL AVANZADO",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "MACHUCA MINES, JOSE"
+    },
+    {
+      "CODIGO": "EE718",
+      "CURSO": "SISTEMAS DE CONTROL AVANZADO",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "JU",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "MACHUCA MINES, JOSE"
+    },
+    {
+      "CODIGO": "BRN35",
+      "CURSO": "REGULACIÓN Y MERCADO DE LAS TELECOMUNICACIONES",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "ATALAYA PISCO, CESAR AUGUSTO"
+    },
+    {
+      "CODIGO": "BRN35",
+      "CURSO": "REGULACIÓN Y MERCADO DE LAS TELECOMUNICACIONES",
+      "SECCION": "M",
+      "TIPO": "P",
+      "DIA": "MA",
+      "HORA": "18:00-20:00",
+      "DOCENTE": "ATALAYA PISCO, CESAR AUGUSTO"
+    },
+    {
+      "CODIGO": "CIB28",
+      "CURSO": "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "MI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "GAMARRA QUISPE, SEGUNDO"
+    },
+    {
+      "CODIGO": "CIB28",
+      "CURSO": "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "GAMARRA QUISPE, SEGUNDO"
+    },
+    {
+      "CODIGO": "EE469",
+      "CURSO": "ARQUITECTURA DE CENTROS DE DATOS",
+      "SECCION": "M",
+      "TIPO": "T",
+      "DIA": "VI",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "BENITEZ PALACIOS, JOSE"
+    },
+    {
+      "CODIGO": "EE469",
+      "CURSO": "ARQUITECTURA DE CENTROS DE DATOS",
+      "SECCION": "M",
+      "TIPO": "L",
+      "DIA": "VI",
+      "HORA": "16:00-18:00",
+      "DOCENTE": "BENITEZ PALACIOS, JOSE"
+    },
+    {
+      "CODIGO": "EE469",
+      "CURSO": "ARQUITECTURA DE CENTROS DE DATOS",
+      "SECCION": "N",
+      "TIPO": "T",
+      "DIA": "MA",
+      "HORA": "14:00-16:00",
+      "DOCENTE": "NN"
+    },
+    {
+      "CODIGO": "EE469",
+      "CURSO": "ARQUITECTURA DE CENTROS DE DATOS",
+      "SECCION": "N",
+      "TIPO": "L",
+      "DIA": "MI",
+      "HORA": "20:00-22:00",
+      "DOCENTE": "NN"
+    }
+  ]
